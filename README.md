@@ -5,6 +5,7 @@ This project predicts Amazon (AMZN) stock prices using a Random Forest Regressor
 
 Historical stock price data is gathered from multiple sources.
 Stock prices of AMZN, DPZ, BTC, and NFLX are used as input features.
+Dataset link : https://www.kaggle.com/datasets/hk7797/stock-market-india
 
 # Data Preprocessing
 
